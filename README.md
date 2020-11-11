@@ -1,1 +1,1 @@
-# kurdish-number-towords
+# Kurdish number to words
